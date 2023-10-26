@@ -11,7 +11,7 @@ namespace DesafioPOO.Models
 
         public override void InstalarAplicativo(string nomeApp)
         {
-            throw new NotImplementedException();
+            Console.WriteLine($"O celular Iphone está instalano o aplicativo {nomeApp}");
         }
     }
 }
